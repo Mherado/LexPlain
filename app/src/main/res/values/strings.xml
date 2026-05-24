@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Home page</string>
+    <string name="home_lasts">Recent checks</string>
+    <string name="home_select_file">Upload\nnew contract</string>
+    <string name="home_analyzing">Analyzing...</string>
+    <string name="home_analysis_error">Analysis error</string>
+    <string name="home_extract_error">Failed to extract text</string>
+    <string name="app_name">LexPlain</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="history_clear">History is empty</string>
+    <string name="history_delete">Delete</string>
+    <string name="end_analyzing">Analysis complete</string>
+    <string name="risky_moments">Risky moments</string>
+    <string name="see_contract">View full contract</string>
+    <string name="see_contract_conspect">View Contract Summary</string>
+    <string name="no_risks">No critical risks detected</string>
+    <string name="nav_settings">Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_language_title">App Language</string>
+    <string name="settings_language_default_button">Change language</string>
+    <string name="settings_language_button">Language: %1$s</string>
+    <string name="settings_language_dialog_title">Select language</string>
+    <string name="settings_clear_history">Clear all history</string>
+    <string name="settings_clear_history_title">Delete history</string>
+    <string name="settings_clear_history_confirm">Are you sure you want to delete all contracts from history?</string>
+    <string name="settings_clear_history_confirm_button">Delete</string>
+    <string name="settings_history_cleared">History cleared</string>
+    <string name="settings_version">Version 1.0.0 | LexPlain</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="settings_auth_login_title">Sign in</string>
+    <string name="settings_auth_register_title">Sign up</string>
+    <string name="settings_auth_no_account">No account? Sign up</string>
+    <string name="settings_auth_login_button">Sign in</string>
+    <string name="settings_auth_logged_in_as">Signed in as:</string>
+    <string name="settings_auth_logout">Sign out</string>
+    <string name="settings_auth_has_account">Already have an account? Sign in</string>
+    <string name="settings_auth_register_button">Sign up</string>
+    <string name="settings_hint_email">Email</string>
+    <string name="settings_hint_password">Password</string>
+    <string name="settings_fill_all_fields">Fill in all fields</string>
+    <string name="settings_password_min_length">Password must be at least 6 characters</string>
+    <string name="settings_enter_email_password">Enter email and password</string>
+    <string name="settings_logged_out">You have signed out</string>
+    <string name="settings_register_error">Registration error</string>
+    <string name="settings_email_already_registered">This email is already registered</string>
+    <string name="settings_invalid_email_format">Invalid email format</string>
+    <string name="settings_verification_error">Verification error: %1$s</string>
+    <string name="settings_confirm_email_title">Confirm your email</string>
+    <string name="settings_confirm_email_message">We sent a message to %1$s.\nPlease follow the link in the email to activate your account.</string>
+    <string name="settings_confirm_email_done">I confirmed</string>
+    <string name="settings_cancel_registration">Cancel</string>
+    <string name="settings_registration_cancelled">Registration cancelled. Confirm your email when signing in.</string>
+    <string name="settings_auth_error">Sign-in error</string>
+    <string name="settings_user_not_found">No user found with this email</string>
+    <string name="settings_wrong_password">Wrong password</string>
+    <string name="settings_login_success">Signed in successfully</string>
+    <string name="settings_account_status_failed">Could not refresh account status</string>
+    <string name="settings_email_not_verified_title">Email not verified</string>
+    <string name="settings_email_not_verified_message">You cannot sign in until you verify your email. Resend the email?</string>
+    <string name="settings_resend_email">Resend</string>
+    <string name="settings_email_resent">Email sent again</string>
+    <string name="settings_verification_send_failed">Could not send email</string>
+
+    <string-array name="settings_language_names">
+        <item>English</item>
+        <item>Russian</item>
+        <item>Armenian</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>

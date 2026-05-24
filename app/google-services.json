@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694951999444",
+    "project_id": "lexplain-41136",
+    "storage_bucket": "lexplain-41136.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694951999444:android:2c8fa3c453ae561967c841",
+        "android_client_info": {
+          "package_name": "mher.minasyan.lexplain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGyUC72md62u8hnqB7zBCFskj4B2YDlSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

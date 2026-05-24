@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Գլխավոր էջ</string>
+    <string name="home_lasts">Վերջին ստուգումները</string>
+    <string name="home_select_file">Վերբեռնել\nնոր պայմանագիր</string>
+    <string name="home_analyzing">Վերլուծվում է...</string>
+    <string name="home_analysis_error">Վերլուծության սխալ</string>
+    <string name="home_extract_error">Չհաջողվեց հանել տեքստը</string>
+    <string name="app_name">LexPlain</string>
+    <string name="nav_home">Գլխավոր</string>
+    <string name="nav_history">Պատմություն</string>
+    <string name="history_clear">Պատմությունը դատարկ է</string>
+    <string name="history_delete">Հեռացնել</string>
+    <string name="end_analyzing">Վերլուծությունն ավարտված է</string>
+    <string name="risky_moments">Ռիսկային պահեր</string>
+    <string name="see_contract">Տեսնել ամբողջ պայմանագիրը</string>
+    <string name="see_contract_conspect">Դիտել պայմանագրի համառոտագիրը</string>
+    <string name="no_risks">Կրիտիկական ռիսկեր չեն հայտնաբերվել</string>
+    <string name="nav_settings">Կարգավորումներ</string>
+    <string name="settings_title">Կարգավորումներ</string>
+    <string name="settings_language_title">Հավելվածի լեզուն</string>
+    <string name="settings_language_default_button">Փոխել լեզուն</string>
+    <string name="settings_language_button">Լեզու: %1$s</string>
+    <string name="settings_language_dialog_title">Ընտրեք լեզուն</string>
+    <string name="settings_clear_history">Մաքրել ողջ պատմությունը</string>
+    <string name="settings_clear_history_title">Պատմության հեռացում</string>
+    <string name="settings_clear_history_confirm">Վստա՞հ եք, որ ցանկանում եք հեռացնել բոլոր պայմանագրերը պատմությունից:</string>
+    <string name="settings_clear_history_confirm_button">Հեռացնել</string>
+    <string name="settings_history_cleared">Պատմությունը մաքրված է</string>
+    <string name="settings_version">Տարբերակ 1.0.0 | LexPlain</string>
+    <string name="next">Հաջորդը</string>
+    <string name="previous">Նախորդը</string>
+    <string name="lorem_ipsum">Լորեմ իպսում դոլոր սիթ ամեթ</string>
+    <string name="first_fragment_label">Առաջին հատված</string>
+    <string name="second_fragment_label">Երկրորդ հատված</string>
+
+    <string name="settings_auth_login_title">Մուտք</string>
+    <string name="settings_auth_register_title">Գրանցում</string>
+    <string name="settings_auth_no_account">Հաշիվ չունե՞ք։ Գրանցվեք</string>
+    <string name="settings_auth_login_button">Մուտք գործել</string>
+    <string name="settings_auth_logged_in_as">Մուտք եք գործել որպես՝</string>
+    <string name="settings_auth_logout">Դուրս գալ</string>
+    <string name="settings_auth_has_account">Արդեն ունե՞ք հաշիվ։ Մուտք գործեք</string>
+    <string name="settings_auth_register_button">Գրանցվել</string>
+    <string name="settings_hint_email">Էլ. փոստ</string>
+    <string name="settings_hint_password">Գաղտնաբառ</string>
+    <string name="settings_fill_all_fields">Լրացրեք բոլոր դաշտերը</string>
+    <string name="settings_password_min_length">Գաղտնաբառը պետք է լինի առնվազն 6 նիշ</string>
+    <string name="settings_enter_email_password">Մուտքագրեք էլ. փոստը և գաղտնաբառը</string>
+    <string name="settings_logged_out">Դուրս եք եկել հաշվից</string>
+    <string name="settings_register_error">Գրանցման սխալ</string>
+    <string name="settings_email_already_registered">Այս էլ. փոստն արդեն գրանցված է</string>
+    <string name="settings_invalid_email_format">Էլ. փոստի սխալ ձևաչափ</string>
+    <string name="settings_verification_error">Հաստատման սխալ՝ %1$s</string>
+    <string name="settings_confirm_email_title">Հաստատեք ձեր էլ. փոստը</string>
+    <string name="settings_confirm_email_message">Ուղարկել ենք նամակ %1$s հասցեին.\nԱկտիվացնելու համար անցեք նամակի հղումով։</string>
+    <string name="settings_confirm_email_done">Հաստատել եմ</string>
+    <string name="settings_cancel_registration">Դուրս գալ</string>
+    <string name="settings_registration_cancelled">Գրանցումը ընդհատված է։ Մուտքի ժամանակ հաստատեք էլ. փոստը։</string>
+    <string name="settings_auth_error">Մուտքի սխալ</string>
+    <string name="settings_user_not_found">Այդ էլ. փոստով օգտատեր չկա</string>
+    <string name="settings_wrong_password">Սխալ գաղտնաբառ</string>
+    <string name="settings_login_success">Հաջող մուտք</string>
+    <string name="settings_account_status_failed">Չհաջողվեց թարմացնել հաշվի կարգավիճակը</string>
+    <string name="settings_email_not_verified_title">Էլ. փոստը հաստատված չէ</string>
+    <string name="settings_email_not_verified_message">Չեք կարող մուտք գործել, մինչև հաստատեք էլ. փոստը։ Ուղարկե՞լ նամակը կրկին։</string>
+    <string name="settings_resend_email">Ուղարկել կրկին</string>
+    <string name="settings_email_resent">Նամակը կրկին ուղարկված է</string>
+    <string name="settings_verification_send_failed">Չհաջողվեց ուղարկել նամակը</string>
+
+    <string-array name="settings_language_names">
+        <item>Անգլերեն</item>
+        <item>Ռուսերեն</item>
+        <item>Հայերեն</item>
+        <item>Գերմաներեն</item>
+        <item>Ֆրանսերեն</item>
+        <item>Իսպաներեն</item>
+    </string-array>
+</resources>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Page d\'accueil</string>
+    <string name="home_select_file">Télécharger\nnouveau contrat</string>
+    <string name="home_lasts">Dernières vérifications</string>
+    <string name="home_analyzing">Analyse en cours...</string>
+    <string name="home_analysis_error">Erreur d\'analyse</string>
+    <string name="home_extract_error">Échec de l\'extraction du texte</string>
+    <string name="app_name">LexPlain</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_history">Historique</string>
+    <string name="history_clear">L\'historique est vide</string>
+    <string name="history_delete">Supprimer</string>
+    <string name="end_analyzing">Analyse terminée</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="see_contract_conspect">Voir le résumé du contrat</string>
+    <string name="see_contract">Voir tout le contrat</string>
+    <string name="no_risks">Aucun risque critique détecté</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_language_title">Langue de l\'application</string>
+    <string name="settings_language_default_button">Changer la langue</string>
+    <string name="settings_language_button">Langue : %1$s</string>
+    <string name="settings_language_dialog_title">Choisir la langue</string>
+    <string name="settings_clear_history">Effacer tout l\'historique</string>
+    <string name="settings_clear_history_title">Suppression de l\'historique</string>
+    <string name="settings_clear_history_confirm">Voulez-vous vraiment supprimer tous les contrats de l\'historique ?</string>
+    <string name="settings_clear_history_confirm_button">Supprimer</string>
+    <string name="settings_history_cleared">Historique effacé</string>
+    <string name="settings_version">Version 1.0.0 | LexPlain</string>
+    <string name="next">Suivant</string>
+    <string name="risky_moments">Points à risque</string>
+    <string name="previous">Précédent</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="first_fragment_label">Premier fragment</string>
+    <string name="second_fragment_label">Deuxième fragment</string>
+
+    <string name="settings_auth_login_title">Connexion</string>
+    <string name="settings_auth_register_title">Inscription</string>
+    <string name="settings_auth_no_account">Pas de compte ? S\'inscrire</string>
+    <string name="settings_auth_login_button">Se connecter</string>
+    <string name="settings_auth_logged_in_as">Connecté en tant que :</string>
+    <string name="settings_auth_logout">Se déconnecter</string>
+    <string name="settings_auth_has_account">Déjà un compte ? Se connecter</string>
+    <string name="settings_auth_register_button">S\'inscrire</string>
+    <string name="settings_hint_email">E-mail</string>
+    <string name="settings_hint_password">Mot de passe</string>
+    <string name="settings_fill_all_fields">Remplissez tous les champs</string>
+    <string name="settings_password_min_length">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="settings_enter_email_password">Saisissez l\'e-mail et le mot de passe</string>
+    <string name="settings_logged_out">Vous êtes déconnecté</string>
+    <string name="settings_register_error">Erreur d\'inscription</string>
+    <string name="settings_email_already_registered">Cet e-mail est déjà enregistré</string>
+    <string name="settings_invalid_email_format">Format d\'e-mail invalide</string>
+    <string name="settings_verification_error">Erreur de vérification : %1$s</string>
+    <string name="settings_confirm_email_title">Confirmez votre e-mail</string>
+    <string name="settings_confirm_email_message">Nous avons envoyé un message à %1$s.\nVeuillez suivre le lien dans l\'e-mail pour activer votre compte.</string>
+    <string name="settings_confirm_email_done">J\'ai confirmé</string>
+    <string name="settings_cancel_registration">Annuler</string>
+    <string name="settings_registration_cancelled">Inscription annulée. Confirmez votre e-mail lors de la connexion.</string>
+    <string name="settings_auth_error">Erreur de connexion</string>
+    <string name="settings_user_not_found">Aucun utilisateur avec cet e-mail</string>
+    <string name="settings_wrong_password">Mot de passe incorrect</string>
+    <string name="settings_login_success">Connexion réussie</string>
+    <string name="settings_account_status_failed">Impossible de mettre à jour le statut du compte</string>
+    <string name="settings_email_not_verified_title">E-mail non vérifié</string>
+    <string name="settings_email_not_verified_message">Vous ne pouvez pas vous connecter tant que votre e-mail n\'est pas vérifié. Renvoyer l\'e-mail ?</string>
+    <string name="settings_resend_email">Renvoyer</string>
+    <string name="settings_email_resent">E-mail renvoyé</string>
+    <string name="settings_verification_send_failed">Impossible d\'envoyer l\'e-mail</string>
+
+    <string-array name="settings_language_names">
+        <item>Anglais</item>
+        <item>Russe</item>
+        <item>Arménien</item>
+        <item>Allemand</item>
+        <item>Français</item>
+        <item>Espagnol</item>
+    </string-array>
+</resources>

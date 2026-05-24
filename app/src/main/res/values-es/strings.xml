@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Página de inicio</string>
+    <string name="home_select_file">Subir\nnuevo contrato</string>
+    <string name="home_lasts">Últimas revisiones</string>
+    <string name="home_analyzing">Analizando...</string>
+    <string name="home_analysis_error">Error de análisis</string>
+    <string name="home_extract_error">Error al extraer el texto</string>
+    <string name="app_name">LexPlain</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_history">Historial</string>
+    <string name="history_clear">El historial está vacío</string>
+    <string name="history_delete">Eliminar</string>
+    <string name="end_analyzing">Análisis finalizado</string>
+    <string name="risky_moments">Momentos de riesgo</string>
+    <string name="see_contract">Ver contrato completo</string>
+    <string name="see_contract_conspect">Ver resumen del contrato</string>
+    <string name="no_risks">No se detectaron riesgos críticos</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_language_title">Idioma de la aplicación</string>
+    <string name="settings_language_default_button">Cambiar idioma</string>
+    <string name="settings_language_button">Idioma: %1$s</string>
+    <string name="settings_language_dialog_title">Seleccionar idioma</string>
+    <string name="settings_clear_history">Borrar todo el historial</string>
+    <string name="settings_clear_history_title">Eliminar historial</string>
+    <string name="settings_clear_history_confirm">¿Estás seguro de que deseas eliminar todos los contratos del historial?</string>
+    <string name="settings_clear_history_confirm_button">Eliminar</string>
+    <string name="settings_history_cleared">Historial borrado</string>
+    <string name="settings_version">Versión 1.0.0 | LexPlain</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="first_fragment_label">Primer fragmento</string>
+    <string name="second_fragment_label">Segundo fragmento</string>
+
+    <string name="settings_auth_login_title">Iniciar sesión</string>
+    <string name="settings_auth_register_title">Registrarse</string>
+    <string name="settings_auth_no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="settings_auth_login_button">Iniciar sesión</string>
+    <string name="settings_auth_logged_in_as">Conectado como:</string>
+    <string name="settings_auth_logout">Cerrar sesión</string>
+    <string name="settings_auth_has_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="settings_auth_register_button">Registrarse</string>
+    <string name="settings_hint_email">Correo electrónico</string>
+    <string name="settings_hint_password">Contraseña</string>
+    <string name="settings_fill_all_fields">Completa todos los campos</string>
+    <string name="settings_password_min_length">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="settings_enter_email_password">Introduce el correo y la contraseña</string>
+    <string name="settings_logged_out">Has cerrado sesión</string>
+    <string name="settings_register_error">Error de registro</string>
+    <string name="settings_email_already_registered">Este correo ya está registrado</string>
+    <string name="settings_invalid_email_format">Formato de correo no válido</string>
+    <string name="settings_verification_error">Error de verificación: %1$s</string>
+    <string name="settings_confirm_email_title">Confirma tu correo</string>
+    <string name="settings_confirm_email_message">Enviamos un mensaje a %1$s.\nSigue el enlace del correo para activar tu cuenta.</string>
+    <string name="settings_confirm_email_done">Ya confirmé</string>
+    <string name="settings_cancel_registration">Cancelar</string>
+    <string name="settings_registration_cancelled">Registro cancelado. Confirma tu correo al iniciar sesión.</string>
+    <string name="settings_auth_error">Error al iniciar sesión</string>
+    <string name="settings_user_not_found">No hay usuario con este correo</string>
+    <string name="settings_wrong_password">Contraseña incorrecta</string>
+    <string name="settings_login_success">Sesión iniciada correctamente</string>
+    <string name="settings_account_status_failed">No se pudo actualizar el estado de la cuenta</string>
+    <string name="settings_email_not_verified_title">Correo no verificado</string>
+    <string name="settings_email_not_verified_message">No puedes iniciar sesión hasta verificar tu correo. ¿Reenviar el correo?</string>
+    <string name="settings_resend_email">Reenviar</string>
+    <string name="settings_email_resent">Correo reenviado</string>
+    <string name="settings_verification_send_failed">No se pudo enviar el correo</string>
+
+    <string-array name="settings_language_names">
+        <item>Inglés</item>
+        <item>Ruso</item>
+        <item>Armenio</item>
+        <item>Alemán</item>
+        <item>Francés</item>
+        <item>Español</item>
+    </string-array>
+</resources>

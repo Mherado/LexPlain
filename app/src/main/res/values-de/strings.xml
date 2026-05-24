@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Startseite</string>
+    <string name="home_select_file">Neuen Vertrag\nhochladen</string>
+    <string name="home_lasts">Letzte Prüfungen</string>
+    <string name="home_analyzing">Analysiere...</string>
+    <string name="home_analysis_error">Analysefehler</string>
+    <string name="home_extract_error">Text konnte nicht extrahiert werden</string>
+    <string name="app_name">LexPlain</string>
+    <string name="nav_home">Startseite</string>
+    <string name="nav_history">Verlauf</string>
+    <string name="history_clear">Verlauf ist leer</string>
+    <string name="history_delete">Löschen</string>
+    <string name="end_analyzing">Analyse abgeschlossen</string>
+    <string name="risky_moments">Risikofaktoren</string>
+    <string name="see_contract">Gesamten Vertrag anzeigen</string>
+    <string name="see_contract_conspect">Vertragszusammenfassung anzeigen</string>
+    <string name="no_risks">Keine kritischen Risiken gefunden</string>
+    <string name="nav_settings">Einstellungen</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_language_title">App-Sprache</string>
+    <string name="settings_language_default_button">Sprache ändern</string>
+    <string name="settings_language_button">Sprache: %1$s</string>
+    <string name="settings_language_dialog_title">Sprache wählen</string>
+    <string name="settings_clear_history">Gesamten Verlauf löschen</string>
+    <string name="settings_clear_history_title">Verlauf löschen</string>
+    <string name="settings_clear_history_confirm">Sind Sie sicher, dass Sie alle Verträge aus dem Verlauf löschen möchten?</string>
+    <string name="settings_clear_history_confirm_button">Löschen</string>
+    <string name="settings_history_cleared">Verlauf gelöscht</string>
+    <string name="settings_version">Version 1.0.0 | LexPlain</string>
+    <string name="next">Weiter</string>
+    <string name="previous">Zurück</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet</string>
+    <string name="first_fragment_label">Erstes Fragment</string>
+    <string name="second_fragment_label">Zweites Fragment</string>
+
+    <string name="settings_auth_login_title">Anmelden</string>
+    <string name="settings_auth_register_title">Registrieren</string>
+    <string name="settings_auth_no_account">Kein Konto? Registrieren</string>
+    <string name="settings_auth_login_button">Anmelden</string>
+    <string name="settings_auth_logged_in_as">Angemeldet als:</string>
+    <string name="settings_auth_logout">Abmelden</string>
+    <string name="settings_auth_has_account">Bereits ein Konto? Anmelden</string>
+    <string name="settings_auth_register_button">Registrieren</string>
+    <string name="settings_hint_email">E-Mail</string>
+    <string name="settings_hint_password">Passwort</string>
+    <string name="settings_fill_all_fields">Füllen Sie alle Felder aus</string>
+    <string name="settings_password_min_length">Das Passwort muss mindestens 6 Zeichen haben</string>
+    <string name="settings_enter_email_password">E-Mail und Passwort eingeben</string>
+    <string name="settings_logged_out">Sie wurden abgemeldet</string>
+    <string name="settings_register_error">Registrierungsfehler</string>
+    <string name="settings_email_already_registered">Diese E-Mail ist bereits registriert</string>
+    <string name="settings_invalid_email_format">Ungültiges E-Mail-Format</string>
+    <string name="settings_verification_error">Verifizierungsfehler: %1$s</string>
+    <string name="settings_confirm_email_title">Bestätigen Sie Ihre E-Mail</string>
+    <string name="settings_confirm_email_message">Wir haben eine Nachricht an %1$s gesendet.\nBitte folgen Sie dem Link in der E-Mail, um Ihr Konto zu aktivieren.</string>
+    <string name="settings_confirm_email_done">Ich habe bestätigt</string>
+    <string name="settings_cancel_registration">Abbrechen</string>
+    <string name="settings_registration_cancelled">Registrierung abgebrochen. Bestätigen Sie Ihre E-Mail beim Anmelden.</string>
+    <string name="settings_auth_error">Anmeldefehler</string>
+    <string name="settings_user_not_found">Kein Benutzer mit dieser E-Mail gefunden</string>
+    <string name="settings_wrong_password">Falsches Passwort</string>
+    <string name="settings_login_success">Erfolgreich angemeldet</string>
+    <string name="settings_account_status_failed">Kontostatus konnte nicht aktualisiert werden</string>
+    <string name="settings_email_not_verified_title">E-Mail nicht bestätigt</string>
+    <string name="settings_email_not_verified_message">Sie können sich erst anmelden, wenn Ihre E-Mail bestätigt ist. E-Mail erneut senden?</string>
+    <string name="settings_resend_email">Erneut senden</string>
+    <string name="settings_email_resent">E-Mail erneut gesendet</string>
+    <string name="settings_verification_send_failed">E-Mail konnte nicht gesendet werden</string>
+
+    <string-array name="settings_language_names">
+        <item>Englisch</item>
+        <item>Russisch</item>
+        <item>Armenisch</item>
+        <item>Deutsch</item>
+        <item>Französisch</item>
+        <item>Spanisch</item>
+    </string-array>
+</resources>

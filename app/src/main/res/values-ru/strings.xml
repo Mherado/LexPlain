@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_title">Главная страница</string>
+    <string name="home_lasts">Последние проверки</string>
+    <string name="home_select_file">Загрузить\nновый контракт</string>
+    <string name="home_analyzing">Анализируем...</string>
+    <string name="end_analyzing">Анализ завершен</string>
+    <string name="home_analysis_error">Ошибка анализа</string>
+    <string name="risky_moments">Рисковые моменты</string>
+    <string name="see_contract">Посмотреть весь контракт</string>
+    <string name="see_contract_conspect">Посмотреть конспект контракта</string>
+    <string name="no_risks">Критичных рисков не обнаружено</string>
+    <string name="home_extract_error">Не удалось извлечь текст</string>
+    <string name="app_name">LexPlain</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_history">История</string>
+    <string name="history_clear">История пуста</string>
+    <string name="history_delete">Удалить</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settings_language_title">Язык приложения</string>
+    <string name="settings_language_default_button">Сменить язык</string>
+    <string name="settings_language_button">Язык: %1$s</string>
+    <string name="settings_language_dialog_title">Выберите язык</string>
+    <string name="settings_clear_history">Очистить всю историю</string>
+    <string name="settings_clear_history_title">Удаление истории</string>
+    <string name="settings_clear_history_confirm">Вы уверены, что хотите удалить все контракты из истории?</string>
+    <string name="settings_clear_history_confirm_button">Удалить</string>
+    <string name="settings_history_cleared">История очищена</string>
+    <string name="settings_version">Версия 1.0.0 | LexPlain</string>
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+    <string name="lorem_ipsum">Лорем ипсум долор сит амет</string>
+    <string name="first_fragment_label">Первый фрагмент</string>
+    <string name="second_fragment_label">Второй фрагмент</string>
+
+    <string name="settings_auth_login_title">Вход</string>
+    <string name="settings_auth_register_title">Регистрация</string>
+    <string name="settings_auth_no_account">Нет аккаунта? Зарегистрироваться</string>
+    <string name="settings_auth_login_button">Войти в аккаунт</string>
+    <string name="settings_auth_logged_in_as">Вы вошли как:</string>
+    <string name="settings_auth_logout">Выйти из аккаунта</string>
+    <string name="settings_auth_has_account">Уже есть аккаунт? Войти</string>
+    <string name="settings_auth_register_button">Зарегистрироваться</string>
+    <string name="settings_hint_email">Email</string>
+    <string name="settings_hint_password">Пароль</string>
+    <string name="settings_fill_all_fields">Заполните все поля</string>
+    <string name="settings_password_min_length">Пароль должен быть не менее 6 символов</string>
+    <string name="settings_enter_email_password">Введите email и пароль</string>
+    <string name="settings_logged_out">Вы вышли из аккаунта</string>
+    <string name="settings_register_error">Ошибка регистрации</string>
+    <string name="settings_email_already_registered">Этот email уже зарегистрирован</string>
+    <string name="settings_invalid_email_format">Неверный формат email</string>
+    <string name="settings_verification_error">Ошибка верификации: %1$s</string>
+    <string name="settings_confirm_email_title">Подтвердите ваш email</string>
+    <string name="settings_confirm_email_message">Мы отправили письмо на адрес %1$s.\nПожалуйста, перейдите по ссылке в письме для активации аккаунта.</string>
+    <string name="settings_confirm_email_done">Я подтвердил</string>
+    <string name="settings_cancel_registration">Выйти</string>
+    <string name="settings_registration_cancelled">Регистрация прервана. Подтвердите почту при входе.</string>
+    <string name="settings_auth_error">Ошибка авторизации</string>
+    <string name="settings_user_not_found">Пользователь с таким email не найден</string>
+    <string name="settings_wrong_password">Неверный пароль</string>
+    <string name="settings_login_success">Вход выполнен успешно</string>
+    <string name="settings_account_status_failed">Не удалось обновить статус аккаунта</string>
+    <string name="settings_email_not_verified_title">Email не подтверждён</string>
+    <string name="settings_email_not_verified_message">Вы не можете войти, пока не подтвердите почту. Отправить письмо повторно?</string>
+    <string name="settings_resend_email">Отправить снова</string>
+    <string name="settings_email_resent">Письмо отправлено повторно</string>
+    <string name="settings_verification_send_failed">Не удалось отправить письмо</string>
+
+    <string-array name="settings_language_names">
+        <item>Английский</item>
+        <item>Русский</item>
+        <item>Армянский</item>
+        <item>Немецкий</item>
+        <item>Французский</item>
+        <item>Испанский</item>
+    </string-array>
+</resources>
